@@ -10,19 +10,13 @@ Predicting wine scores can benefit those on the consumer side, as well as those 
 ### Notebooks Folder:
 I have merged all of my notebooks to a single notebook. You can find the complete notebook in the Notebooks folder. I plan to fit an ensemble learning model in the future. Once I complete that phase of the project, I will add those notebook(s) to this folder. 
 
-### Data Folder:
-Contents:
+### Clean_Data Folder:
+Contents had to be zipped due to size:
 
 * `clean_train_data`: training set free of nulls and duplicates, target (points) included
 * `clean_remainder_data`: remainder set free of nulls and duplicates, target (points) included
 * `clean_validation_data`: validation set free of nulls and duplicates, target (points) included
 * `clean_test_data`: test set free of nulls and duplicates, target (points) included
-
-* `train_model_data`: encoded, vectorized, model-ready training data (unscaled), target (points) included
-* `valid_model_data`: encoded, vectorized, model-ready validation data (unscaled), target (points) included
-* `test_model_data`: encoded, vectorized, model-ready testing data (unscaled - transformed using training set), target (points) included
-* `remainder_model_data`: encoded, vectorized, model-ready remainder data (unscaled), target (points) included
-* `test_model_data2`: encoded, vectorized, model-ready testing data (unscaled - transformed using remainder set), target (points) included
 <br>
 <br>
 <br>
