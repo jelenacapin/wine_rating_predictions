@@ -22,8 +22,8 @@ Contents:
 * `valid_model_data`: encoded, vectorized, model-ready validation data (unscaled), target (points) included
 * `test_model_data`: encoded, vectorized, model-ready testing data (unscaled - transformed using training set), target (points) included
 * `remainder_model_data`: encoded, vectorized, model-ready remainder data (unscaled), target (points) included
-* `test_model_data2`: encoded, vectorizer, model-ready testing data (unscaled - transformed using remainder set), target (points) included
+* `test_model_data2`: encoded, vectorized, model-ready testing data (unscaled - transformed using remainder set), target (points) included
 <br>
 <br>
 <br>
-### Questions? Feedback? Contact me [here](https://www.linkedin.com/in/jelena-capin)
+Questions? Feedback? Contact me on LinkedIn (https://www.linkedin.com/in/jelena-capin)
